@@ -1,6 +1,7 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
 [RSS Feed](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)
+
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
@@ -10,14 +11,10 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## 置顶文章
 - [unity api](https://docs.unity3d.com/ScriptReference/) --2023-04-16
 
-## 最近更新
-
 ## 2023
 - [test](https://github.com/lingyiq/lingyiq/blob/gh-pages/2023/test.txt) --2023-4-16
 
-
 ## 2019
-- [unity api](https://docs.unity3d.com/ScriptReference/) --2023-04-16
 - [unity api](https://docs.unity3d.com/ScriptReference/) --2023-04-16
 
 ## TODO
