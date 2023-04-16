@@ -4,8 +4,8 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
-| 测试表格连接 | https://www.baidu.com/ | 13246589 |
-| 测试表格连接 | https://www.baidu.com/ | 13246589 |
+| 测试表格连接 | https://docs.unity3d.com/ScriptReference/ | 13246589 |
+| 测试表格连接 | https://docs.unity3d.com/ScriptReference/ | 13246589 |
 
 ## 置顶文章
 - [unity api](https://docs.unity3d.com/ScriptReference/) --2023-04-16
